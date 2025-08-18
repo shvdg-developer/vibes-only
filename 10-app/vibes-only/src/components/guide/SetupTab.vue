@@ -19,10 +19,6 @@
         <li>Open your project folder in Cursor.</li>
         <li>Enable the in-editor chat and side panels as needed.</li>
       </ul>
-      <figure class="mt-4">
-        <img src="/guide/setup-install.jpg" alt="Cursor installation flow placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
-        <figcaption class="mt-2 text-sm text-zinc-600 dark:text-zinc-400">Placeholder image — replace with a screenshot of the installation/download UI.</figcaption>
-      </figure>
     </section>
 
     <section class="w-full max-w-3xl mx-auto px-5 text-left border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 rounded-2xl py-5">
@@ -41,10 +37,6 @@
         <li>Use <code class="bg-zinc-100 dark:bg-zinc-800 px-2 py-1 rounded text-sm">@Docs</code> in chat to reference them directly.</li>
         <li>Keep sources focused and current to improve answer quality.</li>
       </ul>
-      <figure class="mt-4">
-        <img src="/guide/setup-add-docs.jpg" alt="Add docs panel placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
-        <figcaption class="mt-2 text-sm text-zinc-600 dark:text-zinc-400">Placeholder image — replace with a screenshot highlighting the @Docs area and attach button.</figcaption>
-      </figure>
     </section>
 
     <section class="w-full max-w-3xl mx-auto px-5 text-left border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 rounded-2xl py-5">
@@ -63,10 +55,6 @@
         <li>Follow the provider setup and configure access credentials.</li>
         <li>Restart Cursor and verify the MCP tools appear in your workspace.</li>
       </ul>
-      <figure class="mt-4">
-        <img src="/guide/setup-mcp.jpg" alt="MCP setup placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
-        <figcaption class="mt-2 text-sm text-zinc-600 dark:text-zinc-400">Placeholder image — replace with screenshots showing MCP settings and provider list.</figcaption>
-      </figure>
     </section>
   </div>
 </template>
