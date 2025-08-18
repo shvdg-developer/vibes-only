@@ -8,7 +8,7 @@ import JourneyTab from '@/components/guide/JourneyTab.vue'
 
 const isCopied = ref(false)
 const buttonLabel = ref('Clone Starter Kit')
-const activeTab = ref<'setup' | 'guide' | 'journey'>('guide')
+const activeTab = ref<'setup' | 'guide' | 'journey'>('setup')
 
 async function copyCloneCommand() {
   const cmd = 'git clone https://github.com/shvdg-developer/vibes-only-starter-kit.git'
