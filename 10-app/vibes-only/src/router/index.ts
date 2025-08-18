@@ -10,6 +10,13 @@ const routes: RouteRecordRaw[] = [
     path: '/guide',
     name: 'guide',
     component: () => import('@/pages/Guide.vue'),
+    props: (route) => ({ tab: route.query.tab }),
+  },
+  {
+    path: '/guide/:tab',
+    name: 'guide-tab',
+    component: () => import('@/pages/Guide.vue'),
+    props: true,
   },
 ]
 
