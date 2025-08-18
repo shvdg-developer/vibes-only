@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f3f4f6"/>
+  <rect x="40" y="40" width="1120" height="620" rx="16" fill="#ffffff" stroke="#9ca3af"/>
+  <text x="60" y="100" font-family="Inter, Arial, sans-serif" font-size="32" fill="#111827" font-weight="700">Placeholder — MCP Setup</text>
+  <text x="60" y="150" font-family="Inter, Arial, sans-serif" font-size="20" fill="#374151">Show where MCP providers are added/configured</text>
+  <rect x="60" y="200" width="320" height="380" rx="12" fill="#ecfeff" stroke="#a5f3fc"/>
+  <text x="80" y="240" font-family="Inter, Arial, sans-serif" font-size="18" fill="#1f2937">Settings / MCP</text>
+  <rect x="460" y="200" width="660" height="380" rx="12" fill="#f9fafb" stroke="#e5e7eb"/>
+  <text x="480" y="240" font-family="Inter, Arial, sans-serif" font-size="18" fill="#1f2937">Provider list</text>
+  <rect x="490" y="420" width="260" height="44" rx="8" fill="#10b981"/>
+  <text x="510" y="448" font-family="Inter, Arial, sans-serif" font-size="18" fill="#ffffff">Add MCP Provider</text>
+</svg>
