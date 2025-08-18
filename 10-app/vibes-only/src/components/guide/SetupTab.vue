@@ -20,7 +20,7 @@
         <li>Enable the in-editor chat and side panels as needed.</li>
       </ul>
       <figure class="mt-4">
-        <img src="/guide/cursor-install.svg" alt="Cursor installation flow placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
+        <img src="/guide/setup-install.jpg" alt="Cursor installation flow placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
         <figcaption class="mt-2 text-sm text-zinc-600 dark:text-zinc-400">Placeholder image — replace with a screenshot of the installation/download UI.</figcaption>
       </figure>
     </section>
@@ -42,7 +42,7 @@
         <li>Keep sources focused and current to improve answer quality.</li>
       </ul>
       <figure class="mt-4">
-        <img src="/guide/cursor-add-docs.svg" alt="Add docs panel placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
+        <img src="/guide/setup-add-docs.jpg" alt="Add docs panel placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
         <figcaption class="mt-2 text-sm text-zinc-600 dark:text-zinc-400">Placeholder image — replace with a screenshot highlighting the @Docs area and attach button.</figcaption>
       </figure>
     </section>
@@ -64,7 +64,7 @@
         <li>Restart Cursor and verify the MCP tools appear in your workspace.</li>
       </ul>
       <figure class="mt-4">
-        <img src="/guide/cursor-mcp-setup.svg" alt="MCP setup placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
+        <img src="/guide/setup-mcp.jpg" alt="MCP setup placeholder" class="w-full rounded-lg border border-zinc-200 dark:border-zinc-800" />
         <figcaption class="mt-2 text-sm text-zinc-600 dark:text-zinc-400">Placeholder image — replace with screenshots showing MCP settings and provider list.</figcaption>
       </figure>
     </section>
